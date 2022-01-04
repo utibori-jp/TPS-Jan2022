@@ -1,6 +1,6 @@
 # TPS-Jan2022
 This is a repository for [Tabular Playground Series-Jan 2022](https://www.kaggle.com/c/tabular-playground-series-jan-2022/leaderboard#score)
-
+![](https://github.com/utibori-jp/TPS-Jan2022/blob/main/images/tps_jan2022_top.jpg)
 - Derectory tree
 ```
 Tabular Playground - Cell Instance Segmentation
