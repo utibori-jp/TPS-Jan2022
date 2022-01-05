@@ -7,7 +7,7 @@ Tabular Playground - Cell Instance Segmentation
 ├── README.md
 ├── data         <---- gitで管理するデータ
 ├── data_ignore  <---- .gitignoreに記述されているディレクトリ(モデルとか、特徴量とか、データセットとか)
-├── nb           <---- jupyter lab で作業したノートブック
+├── notebook     <---- jupyter lab で作業したノートブック
 ├── nb_download  <---- ダウンロードした公開されているkagglenb
 ├── logs         <---- このcompetitionに取り組んだ時のlog
 ├── image        <---- imageを保存
