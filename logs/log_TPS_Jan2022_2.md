@@ -18,4 +18,9 @@ This is logs for my daily study of kaggle competition. I will record what I have
 * I finished the implementation of the model, but I couldn't finish the evaluation of the model, so I will work on the rest tomorrow.
 
 ## 2022/01/05
-* Today is here.
+* I worked on and finished the rest of yesterday.
+* I understood most of the code itself, but I still have a limited understanding of XGBRegressor and Pipeline.
+
+
+
+
