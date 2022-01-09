@@ -21,6 +21,12 @@ This is logs for my daily study of kaggle competition. I will record what I have
 * I worked on and finished the rest of yesterday.
 * I understood most of the code itself, but I still have a limited understanding of XGBRegressor and Pipeline.
 
+## 2022/01/08
+*　一日中パイプラインの使い方を勉強していた。
 
-
+## 2022/01/09
+* 何個かノートブックを読んだところで、結局その後自分は何をすればいいのかがよくわからなくなった。
+* 次何をするのか決めるため、一先ずdiscussionを読んで行った。
+* アンサンブルが思ったよりも高い結果を出すことを発見した。
+* public leader boardのノートブックも確認しようと思う。
 
