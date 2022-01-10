@@ -22,11 +22,13 @@ This is logs for my daily study of kaggle competition. I will record what I have
 * I understood most of the code itself, but I still have a limited understanding of XGBRegressor and Pipeline.
 
 ## 2022/01/08
-* 一日中パイプラインの使い方を勉強していた。
+* I spent the whole day learning how to use the pipeline.
 
 ## 2022/01/09
-* 何個かノートブックを読んだところで、結局その後自分は何をすればいいのかがよくわからなくなった。
-* 次何をするのか決めるため、一先ずdiscussionを読んで行った。
-* アンサンブルが思ったよりも高い結果を出すらしい。最終週にアンサンブルに本格的に取り組めるように、最終週までにモデル単体での精度を上げていきたい。
+* After reading a few notebooks, I was not sure what I was supposed to do after that.
+* I read the discussion to decide what to do next.
+* I heard that ensembles give higher results than expected. Iwant to improve the accuracy of the model by the last week so that I can work on the ensemble in earnest.
 
+## 2022/01/10
+* For some reason my account was locked and I could't do it anymore. I don't know why, but it seems that others are experiencing the same thing, so we'll just have to wait and see.
 
