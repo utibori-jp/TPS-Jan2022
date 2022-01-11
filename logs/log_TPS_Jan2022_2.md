@@ -32,3 +32,9 @@ This is logs for my daily study of kaggle competition. I will record what I have
 ## 2022/01/10
 * For some reason my account was locked and I could't do it anymore. I don't know why, but it seems that others are experiencing the same thing, so we'll just have to wait and see.
 
+## 2022/01/11
+* TPSJAN22-01 EDA which makes senseを一通り読み終わった。
+* 年末や週末はよく売れる傾向があるだろうとは思っていたが、逆に売れない週や月があることもわかった。
+
+* I finished the implementation of the model, but I couldn't finish the evaluation of the model, so I will work on the rest tomorrow.t
+* I finished the implementation of the model, but I couldn't finish the evaluation of the model, so I will work on the rest tomorrow.
