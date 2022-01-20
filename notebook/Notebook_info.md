@@ -15,7 +15,10 @@ All notebooks are managed by　numbers.
 |08|Doing|[Time Series Forecasting](https://www.kaggle.com/marcobr95/time-series-forecasting)|sklearn, GBM, randomForest|22/01/20|
 |09|Doing|[Happy New Year[TPS:Understanding the Data PT1]](https://www.kaggle.com/toomuchsauce/happy-new-year-tps-understanding-the-data-pt1)|EDA|22/01/20|
 |10|Doing|[TPS-Jan Part2:LSTM PyTorch](https://www.kaggle.com/toomuchsauce/tps-jan-part-2-lstm-pytorch)|LSTM, PyTorch|22/01/20|
-|1|Doing|[a simple simple simple Neaural Network pytorch](https://www.kaggle.com/zhangcheche/a-simple-simple-simple-neural-network-pytorch)|PyTorch, Neaural Network|22/01/20|
+|11|Doing|[a simple simple simple Neaural Network pytorch](https://www.kaggle.com/zhangcheche/a-simple-simple-simple-neural-network-pytorch)|PyTorch, Neaural Network|22/01/20|
+|12|Doing|[TPS0122 Single Prophet](https://www.kaggle.com/stpeteishii/tps0122-single-prophet)|multi-prophet|22/01/20|
+|1|Doing|[TPS Jan 22-EDA+modelling](https://www.kaggle.com/samuelcortinhas/tps-jan-22-eda-modelling)|EDA|22/01/20|
+|1|Doing|[[Tutorial]-Let's Talk Time Series Validation](https://www.kaggle.com/yamqwe/tutorial-let-s-talk-time-series-validation)|EDA|22/01/20|
 |1|Doing||||
 |1|Doing||||
 |1|Doing||||
